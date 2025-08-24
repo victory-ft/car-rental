@@ -1,0 +1,33 @@
+:root {
+  --bg: #f6f7f9;
+  --bg-secondary: #ffffff;
+  --primary-color: #3563e9;
+  --secondary-color: #54a6ff;
+  --border-color: #c3d4e966;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --primary-color: #3563e9;
+  }
+}
+
+* {
+  box-sizing: border-box;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  //   outline: 2px solid green;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--bg);
+}
+
+button {
+  cursor: pointer;
+}
+
+.main-content {
+  max-width: 1300px;
+}
