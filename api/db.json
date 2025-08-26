@@ -20,7 +20,8 @@
 			"description": "A comfortable and efficient sedan, perfect for city driving or long highway trips.",
 			"available": true,
 			"location": "New York",
-			"features": ["Air Conditioning", "Bluetooth", "Cruise Control"]
+			"features": ["Air Conditioning", "Bluetooth", "Cruise Control"],
+			"popular": true
 		},
 		{
 			"id": 2,
@@ -42,7 +43,8 @@
 			"description": "A sporty hatchback with excellent handling and fuel efficiency.",
 			"available": true,
 			"location": "Los Angeles",
-			"features": ["Bluetooth", "Backup Camera"]
+			"features": ["Bluetooth", "Backup Camera"],
+			"popular": true
 		},
 		{
 			"id": 3,
@@ -64,7 +66,8 @@
 			"description": "All-electric sedan with cutting-edge technology and impressive acceleration.",
 			"available": true,
 			"location": "San Francisco",
-			"features": ["Autopilot", "Heated Seats", "Bluetooth"]
+			"features": ["Autopilot", "Heated Seats", "Bluetooth"],
+			"popular": false
 		},
 		{
 			"id": 4,
@@ -86,7 +89,8 @@
 			"description": "Spacious SUV with three rows of seating, great for family trips.",
 			"available": false,
 			"location": "Chicago",
-			"features": ["All-Wheel Drive", "Navigation", "Backup Camera"]
+			"features": ["All-Wheel Drive", "Navigation", "Backup Camera"],
+			"popular": false
 		},
 		{
 			"id": 5,
@@ -108,7 +112,8 @@
 			"description": "Luxury sedan with sporty handling and premium comfort.",
 			"available": true,
 			"location": "Miami",
-			"features": ["Leather Seats", "Bluetooth", "Sunroof"]
+			"features": ["Leather Seats", "Bluetooth", "Sunroof"],
+			"popular": false
 		},
 		{
 			"id": 6,
@@ -130,7 +135,8 @@
 			"description": "Full-size SUV with strong towing capacity and ample cargo space.",
 			"available": true,
 			"location": "Dallas",
-			"features": ["Tow Package", "Parking Sensors", "Bluetooth"]
+			"features": ["Tow Package", "Parking Sensors", "Bluetooth"],
+			"popular": false
 		},
 		{
 			"id": 7,
@@ -152,7 +158,8 @@
 			"description": "Iconic off-road SUV built for adventure and rugged terrain.",
 			"available": false,
 			"location": "Denver",
-			"features": ["4x4 Drive", "Removable Roof", "Bluetooth"]
+			"features": ["4x4 Drive", "Removable Roof", "Bluetooth"],
+			"popular": false
 		},
 		{
 			"id": 8,
@@ -174,7 +181,8 @@
 			"description": "Stylish and luxurious sedan with smooth performance and advanced features.",
 			"available": true,
 			"location": "Houston",
-			"features": ["Leather Seats", "Navigation", "Heated Seats"]
+			"features": ["Leather Seats", "Navigation", "Heated Seats"],
+			"popular": false
 		},
 		{
 			"id": 9,
@@ -196,7 +204,8 @@
 			"description": "High-performance sportscar with iconic design and thrilling drive.",
 			"available": true,
 			"location": "Las Vegas",
-			"features": ["Leather Seats", "Sport Mode", "Bluetooth"]
+			"features": ["Leather Seats", "Sport Mode", "Bluetooth"],
+			"popular": true
 		},
 		{
 			"id": 10,
@@ -218,7 +227,8 @@
 			"description": "Affordable and eco-friendly electric hatchback, great for city driving.",
 			"available": true,
 			"location": "Seattle",
-			"features": ["Heated Seats", "Navigation", "Bluetooth"]
+			"features": ["Heated Seats", "Navigation", "Bluetooth"],
+			"popular": false
 		},
 		{
 			"id": 11,
@@ -240,7 +250,8 @@
 			"description": "Compact sedan with great fuel economy and a modern design.",
 			"available": true,
 			"location": "Boston",
-			"features": ["Bluetooth", "Backup Camera", "Cruise Control"]
+			"features": ["Bluetooth", "Backup Camera", "Cruise Control"],
+			"popular": false
 		},
 		{
 			"id": 12,
@@ -262,7 +273,8 @@
 			"description": "Premium SUV with advanced safety features and a luxurious interior.",
 			"available": true,
 			"location": "San Diego",
-			"features": ["All-Wheel Drive", "Leather Seats", "Navigation"]
+			"features": ["All-Wheel Drive", "Leather Seats", "Navigation"],
+			"popular": false
 		},
 		{
 			"id": 13,
@@ -284,7 +296,8 @@
 			"description": "Funky compact hatchback with excellent cargo space.",
 			"available": false,
 			"location": "Portland",
-			"features": ["Bluetooth", "Apple CarPlay", "Backup Camera"]
+			"features": ["Bluetooth", "Apple CarPlay", "Backup Camera"],
+			"popular": false
 		},
 		{
 			"id": 14,
@@ -306,7 +319,8 @@
 			"description": "Powerful pickup truck with high towing capacity and spacious cabin.",
 			"available": true,
 			"location": "Phoenix",
-			"features": ["Tow Package", "Bluetooth", "4x4 Drive"]
+			"features": ["Tow Package", "Bluetooth", "4x4 Drive"],
+			"popular": false
 		},
 		{
 			"id": 15,
@@ -328,7 +342,8 @@
 			"description": "Lightweight convertible roadster with agile handling and pure driving fun.",
 			"available": true,
 			"location": "Los Angeles",
-			"features": ["Convertible Top", "Bluetooth", "Cruise Control"]
+			"features": ["Convertible Top", "Bluetooth", "Cruise Control"],
+			"popular": false
 		},
 		{
 			"id": 16,
@@ -350,7 +365,8 @@
 			"description": "Versatile hatchback with solid performance and European styling.",
 			"available": true,
 			"location": "Philadelphia",
-			"features": ["Bluetooth", "Backup Camera", "Apple CarPlay"]
+			"features": ["Bluetooth", "Backup Camera", "Apple CarPlay"],
+			"popular": false
 		},
 		{
 			"id": 17,
@@ -372,7 +388,8 @@
 			"description": "High-end luxury sportscar with legendary performance and style.",
 			"available": true,
 			"location": "Miami",
-			"features": ["Leather Seats", "Sport Mode", "Navigation"]
+			"features": ["Leather Seats", "Sport Mode", "Navigation"],
+			"popular": false
 		},
 		{
 			"id": 18,
@@ -394,7 +411,8 @@
 			"description": "Luxury electric SUV with falcon wing doors and cutting-edge tech.",
 			"available": false,
 			"location": "San Jose",
-			"features": ["Autopilot", "Heated Seats", "All-Wheel Drive"]
+			"features": ["Autopilot", "Heated Seats", "All-Wheel Drive"],
+			"popular": true
 		},
 		{
 			"id": 19,
@@ -416,7 +434,8 @@
 			"description": "Rugged crossover with standard all-wheel drive, ideal for outdoor trips.",
 			"available": true,
 			"location": "Salt Lake City",
-			"features": ["All-Wheel Drive", "Roof Rails", "Bluetooth"]
+			"features": ["All-Wheel Drive", "Roof Rails", "Bluetooth"],
+			"popular": false
 		},
 		{
 			"id": 20,
@@ -438,7 +457,8 @@
 			"description": "Luxury midsize SUV with a quiet cabin and refined ride.",
 			"available": true,
 			"location": "Atlanta",
-			"features": ["Leather Seats", "Heated Seats", "Navigation"]
+			"features": ["Leather Seats", "Heated Seats", "Navigation"],
+			"popular": false
 		},
 		{
 			"id": 21,
@@ -460,7 +480,8 @@
 			"description": "Reliable and fuel-efficient sedan, perfect for daily commutes.",
 			"available": true,
 			"location": "Chicago",
-			"features": ["Apple CarPlay", "Backup Camera", "Cruise Control"]
+			"features": ["Apple CarPlay", "Backup Camera", "Cruise Control"],
+			"popular": false
 		},
 		{
 			"id": 22,
@@ -482,7 +503,8 @@
 			"description": "Luxury compact SUV with sporty handling and premium interior.",
 			"available": false,
 			"location": "Seattle",
-			"features": ["Leather Seats", "Navigation", "Heated Seats"]
+			"features": ["Leather Seats", "Navigation", "Heated Seats"],
+			"popular": false
 		},
 		{
 			"id": 23,
@@ -504,7 +526,8 @@
 			"description": "Midsize sedan with comfortable seating and excellent mileage.",
 			"available": true,
 			"location": "Houston",
-			"features": ["Bluetooth", "Cruise Control", "Backup Camera"]
+			"features": ["Bluetooth", "Cruise Control", "Backup Camera"],
+			"popular": false
 		},
 		{
 			"id": 24,
@@ -526,7 +549,8 @@
 			"description": "American muscle car with bold styling and powerful performance.",
 			"available": true,
 			"location": "Detroit",
-			"features": ["Sport Mode", "Bluetooth", "Leather Seats"]
+			"features": ["Sport Mode", "Bluetooth", "Leather Seats"],
+			"popular": false
 		},
 		{
 			"id": 25,
@@ -548,7 +572,8 @@
 			"description": "Luxury compact SUV with a refined cabin and smooth ride.",
 			"available": true,
 			"location": "Washington D.C.",
-			"features": ["Leather Seats", "Navigation", "Heated Seats"]
+			"features": ["Leather Seats", "Navigation", "Heated Seats"],
+			"popular": false
 		},
 		{
 			"id": 26,
@@ -570,7 +595,8 @@
 			"description": "Practical sedan with a spacious interior and reliable performance.",
 			"available": true,
 			"location": "Minneapolis",
-			"features": ["Bluetooth", "Backup Camera", "Cruise Control"]
+			"features": ["Bluetooth", "Backup Camera", "Cruise Control"],
+			"popular": false
 		},
 		{
 			"id": 27,
@@ -592,7 +618,8 @@
 			"description": "Compact electric SUV with cutting-edge tech and impressive range.",
 			"available": false,
 			"location": "San Francisco",
-			"features": ["Autopilot", "Heated Seats", "Panoramic Roof"]
+			"features": ["Autopilot", "Heated Seats", "Panoramic Roof"],
+			"popular": false
 		},
 		{
 			"id": 28,
@@ -614,7 +641,8 @@
 			"description": "Rugged yet refined SUV, capable both on-road and off-road.",
 			"available": true,
 			"location": "Denver",
-			"features": ["All-Wheel Drive", "Navigation", "Roof Rails"]
+			"features": ["All-Wheel Drive", "Navigation", "Roof Rails"],
+			"popular": false
 		},
 		{
 			"id": 29,
@@ -636,7 +664,8 @@
 			"description": "Compact SUV with excellent fuel economy and stylish design.",
 			"available": true,
 			"location": "Charlotte",
-			"features": ["Bluetooth", "Cruise Control", "Backup Camera"]
+			"features": ["Bluetooth", "Cruise Control", "Backup Camera"],
+			"popular": false
 		},
 		{
 			"id": 30,
@@ -658,7 +687,8 @@
 			"description": "Family SUV with three rows of seating and advanced tech features.",
 			"available": true,
 			"location": "Orlando",
-			"features": ["3rd Row Seating", "Navigation", "Bluetooth"]
+			"features": ["3rd Row Seating", "Navigation", "Bluetooth"],
+			"popular": false
 		},
 		{
 			"id": 31,
@@ -680,7 +710,8 @@
 			"description": "Stylish compact SUV with agile handling and modern interior.",
 			"available": true,
 			"location": "Nashville",
-			"features": ["Bluetooth", "Backup Camera", "Cruise Control"]
+			"features": ["Bluetooth", "Backup Camera", "Cruise Control"],
+			"popular": false
 		},
 		{
 			"id": 32,
@@ -703,7 +734,8 @@
 			"description": "Midsize sedan with spacious interior and smooth ride.",
 			"available": true,
 			"location": "Columbus",
-			"features": ["Bluetooth", "Apple CarPlay", "Backup Camera"]
+			"features": ["Bluetooth", "Apple CarPlay", "Backup Camera"],
+			"popular": false
 		},
 		{
 			"id": 33,
@@ -725,7 +757,8 @@
 			"description": "Luxury performance SUV with sporty handling and elegant styling.",
 			"available": false,
 			"location": "Las Vegas",
-			"features": ["Leather Seats", "Navigation", "Sport Mode"]
+			"features": ["Leather Seats", "Navigation", "Sport Mode"],
+			"popular": false
 		},
 		{
 			"id": 34,
@@ -747,7 +780,8 @@
 			"description": "Premium 3-row SUV with advanced safety and Scandinavian design.",
 			"available": true,
 			"location": "New York",
-			"features": ["3rd Row Seating", "Navigation", "Heated Seats"]
+			"features": ["3rd Row Seating", "Navigation", "Heated Seats"],
+			"popular": false
 		},
 		{
 			"id": 35,
@@ -770,7 +804,8 @@
 			"description": "Classic American muscle coupe with bold styling and V8 power.",
 			"available": true,
 			"location": "Kansas City",
-			"features": ["Sport Mode", "Bluetooth", "Leather Seats"]
+			"features": ["Sport Mode", "Bluetooth", "Leather Seats"],
+			"popular": false
 		},
 		{
 			"id": 36,
@@ -792,7 +827,8 @@
 			"description": "Compact electric hatchback with excellent urban driving range.",
 			"available": true,
 			"location": "Austin",
-			"features": ["Bluetooth", "Apple CarPlay", "Navigation"]
+			"features": ["Bluetooth", "Apple CarPlay", "Navigation"],
+			"popular": false
 		},
 		{
 			"id": 37,
@@ -813,7 +849,8 @@
 			"description": "Luxury sedan with sporty performance and advanced features.",
 			"available": true,
 			"location": "Tampa",
-			"features": ["Leather Seats", "Navigation", "Heated Seats"]
+			"features": ["Leather Seats", "Navigation", "Heated Seats"],
+			"popular": false
 		},
 		{
 			"id": 38,
@@ -835,7 +872,8 @@
 			"description": "Luxury full-size SUV with bold presence and advanced tech.",
 			"available": true,
 			"location": "Los Angeles",
-			"features": ["3rd Row Seating", "Leather Seats", "Navigation"]
+			"features": ["3rd Row Seating", "Leather Seats", "Navigation"],
+			"popular": false
 		},
 		{
 			"id": 39,
@@ -857,7 +895,8 @@
 			"description": "Luxury sport sedan with premium interior and balanced handling.",
 			"available": true,
 			"location": "Miami",
-			"features": ["Leather Seats", "Navigation", "Heated Seats"]
+			"features": ["Leather Seats", "Navigation", "Heated Seats"],
+			"popular": false
 		},
 		{
 			"id": 40,
@@ -879,7 +918,8 @@
 			"description": "A hot hatch with sporty performance and refined interior.",
 			"available": true,
 			"location": "Seattle",
-			"features": ["Sport Seats", "Touchscreen", "Keyless Entry"]
+			"features": ["Sport Seats", "Touchscreen", "Keyless Entry"],
+			"popular": false
 		},
 		{
 			"id": 41,
@@ -925,7 +965,8 @@
 			"description": "A premium electric sedan with cutting-edge technology and acceleration.",
 			"available": true,
 			"location": "San Francisco",
-			"features": ["Autopilot", "Premium Sound", "Glass Roof"]
+			"features": ["Autopilot", "Premium Sound", "Glass Roof"],
+			"popular": false
 		},
 		{
 			"id": 43,
@@ -947,7 +988,8 @@
 			"description": "Luxury 3-row SUV with sporty handling and premium comfort features.",
 			"available": true,
 			"location": "Cincinnati",
-			"features": ["3rd Row Seating", "Leather Seats", "All-Wheel Drive"]
+			"features": ["3rd Row Seating", "Leather Seats", "All-Wheel Drive"],
+			"popular": false
 		},
 		{
 			"id": 44,
@@ -969,7 +1011,8 @@
 			"description": "Full-size luxury SUV with commanding presence and spacious interior.",
 			"available": true,
 			"location": "Detroit",
-			"features": ["3rd Row Seating", "Massage Seats", "Panoramic Roof"]
+			"features": ["3rd Row Seating", "Massage Seats", "Panoramic Roof"],
+			"popular": false
 		},
 		{
 			"id": 45,
@@ -991,7 +1034,8 @@
 			"description": "Full-size pickup truck with smooth ride and impressive towing capacity.",
 			"available": true,
 			"location": "San Antonio",
-			"features": ["Tow Package", "4x4 Drive", "Heated Seats"]
+			"features": ["Tow Package", "4x4 Drive", "Heated Seats"],
+			"popular": false
 		},
 		{
 			"id": 46,
@@ -1013,7 +1057,8 @@
 			"description": "Compact luxury SUV with quiet cabin and refined driving experience.",
 			"available": true,
 			"location": "Milwaukee",
-			"features": ["Bluetooth", "Backup Camera", "Leather Seats"]
+			"features": ["Bluetooth", "Backup Camera", "Leather Seats"],
+			"popular": false
 		},
 		{
 			"id": 47,
@@ -1035,7 +1080,8 @@
 			"description": "Affordable 3-row SUV with excellent warranty and modern features.",
 			"available": true,
 			"location": "Sacramento",
-			"features": ["3rd Row Seating", "Apple CarPlay", "All-Wheel Drive"]
+			"features": ["3rd Row Seating", "Apple CarPlay", "All-Wheel Drive"],
+			"popular": false
 		},
 		{
 			"id": 48,
@@ -1057,7 +1103,8 @@
 			"description": "Italian luxury SUV with sporty performance and distinctive styling.",
 			"available": false,
 			"location": "Beverly Hills",
-			"features": ["Sport Mode", "Leather Seats", "Navigation"]
+			"features": ["Sport Mode", "Leather Seats", "Navigation"],
+			"popular": false
 		},
 		{
 			"id": 49,
@@ -1078,7 +1125,8 @@
 			"description": "Exotic supercar with breathtaking performance and cutting-edge aerodynamics.",
 			"available": true,
 			"location": "Las Vegas",
-			"features": ["Carbon Fiber Interior", "Track Mode", "Premium Sound"]
+			"features": ["Carbon Fiber Interior", "Track Mode", "Premium Sound"],
+			"popular": false
 		},
 		{
 			"id": 50,
@@ -1100,7 +1148,8 @@
 			"description": "All-electric pickup truck designed for adventure with innovative storage solutions.",
 			"available": true,
 			"location": "Portland",
-			"features": ["All-Wheel Drive", "Tank Turn", "Camp Mode"]
+			"features": ["All-Wheel Drive", "Tank Turn", "Camp Mode"],
+			"popular": false
 		}
 	]
 }
