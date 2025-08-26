@@ -44,7 +44,7 @@
 			"available": true,
 			"location": "Los Angeles",
 			"features": ["Bluetooth", "Backup Camera"],
-			"popular": true
+			"popular": false
 		},
 		{
 			"id": 3,
@@ -251,7 +251,7 @@
 			"available": true,
 			"location": "Boston",
 			"features": ["Bluetooth", "Backup Camera", "Cruise Control"],
-			"popular": false
+			"popular": true
 		},
 		{
 			"id": 12,
@@ -541,7 +541,7 @@
 			"capacity": 4,
 			"range": 611,
 			"images": [
-				"https://res.cloudinary.com/victory-dev/image/upload/v1756027649/cars/63392f48-3603-458a-85da-0af9e59c53f0_tcmnzn.webpjpg",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756027649/cars/63392f48-3603-458a-85da-0af9e59c53f0_tcmnzn.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756027653/cars/ec35896e-2d35-4b0e-8376-8249c76bd74d_cei57q.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756027664/cars/932c9467-a690-4aaf-94f1-cf9f369723a5_cjkbvo.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756027666/cars/e738b207-6014-4eca-bc23-7fb6fb895687_e2zrmw.webp"

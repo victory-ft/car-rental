@@ -31,7 +31,8 @@ button {
   cursor: pointer;
 
   &.primary-btn,
-  &.secondary-btn {
+  &.secondary-btn,
+  &.disabled-btn {
     width: fit-content;
     padding: 10px 20px;
     font-size: 1rem;
@@ -47,6 +48,10 @@ button {
 
   &.secondary-btn {
     background-color: var(--secondary-color);
+  }
+
+  &.disabled-btn {
+    background-color: var(--secondary-text-color);
   }
 }
 
