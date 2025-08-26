@@ -1,0 +1,55 @@
+/* LocationTimeSelector */
+.location-time-container {
+  margin: 30px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+
+  .lt-item {
+    background-color: #fff;
+    width: 100%;
+    border-radius: 10px;
+    padding: 24px 48px;
+
+    .lt-header {
+      font-weight: 600;
+      margin: 0 0 16px;
+    }
+
+    .lt-picker {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .field-header {
+      font-weight: 700;
+      margin: 0;
+    }
+
+    .field-selector {
+      display: flex;
+      background-color: transparent;
+      align-items: center;
+      justify-content: start;
+      gap: 10px;
+      border: none;
+      padding: 0;
+
+      p {
+        color: var(--secondary-text-color);
+      }
+    }
+  }
+
+  .swap-btn {
+    border: none;
+    background-color: var(--primary-color);
+    border-radius: 10px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}

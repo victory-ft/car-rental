@@ -4,6 +4,8 @@
   --primary-color: #3563e9;
   --secondary-color: #54a6ff;
   --border-color: #c3d4e966;
+  --text-color: #1a202c;
+  --secondary-text-color: #90a3bf;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -15,19 +17,145 @@
 * {
   box-sizing: border-box;
   font-family: 'Plus Jakarta Sans', sans-serif;
-  //   outline: 2px solid green;
+  // outline: 2px solid green;
 }
 
 body {
   margin: 0;
   padding: 0;
   background-color: var(--bg);
+  color: var(--text-color);
 }
 
 button {
   cursor: pointer;
+
+  &.primary-btn,
+  &.secondary-btn {
+    width: fit-content;
+    padding: 10px 20px;
+    font-size: 1rem;
+    font-weight: 600;
+    border-radius: 4px;
+    border: none;
+    color: #ffffff;
+  }
+
+  &.primary-btn {
+    background-color: var(--primary-color);
+  }
+
+  &.secondary-btn {
+    background-color: var(--secondary-color);
+  }
 }
 
 .main-content {
   max-width: 1300px;
+  padding-top: 30px;
+  margin: 100px auto 30px;
+}
+
+.header {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 150%;
+
+  &.cta-header {
+    color: white;
+    margin: 0;
+  }
+}
+
+.cta-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  // height: 100%;
+  height: 360px;
+  width: 100%;
+
+  .cta {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    padding: 24px;
+    position: relative;
+  }
+
+  .cta-one {
+    // background-color: var(--secondary-color);
+    position: relative;
+    overflow: hidden;
+    background:
+      radial-gradient(
+        circle at 30% 90%,
+        transparent 30px,
+        #ffffff0f 30px,
+        #ffffff0f 50px,
+        transparent 50px,
+        transparent 90px,
+        #ffffff0f 90px,
+        #ffffff0f 110px,
+        transparent 110px,
+        transparent 150px,
+        #ffffff0f 150px,
+        #ffffff0f 170px,
+        transparent 170px,
+        transparent 210px,
+        #ffffff0f 210px,
+        #ffffff0f 230px,
+        transparent 230px,
+        transparent 270px,
+        #ffffff0f 270px,
+        #ffffff0f 290px,
+        transparent 290px,
+        transparent 330px,
+        #ffffff0f 330px,
+        #ffffff0f 350px,
+        transparent 350px,
+        transparent 390px,
+        #ffffff0f 390px,
+        #ffffff0f 410px,
+        transparent 410px,
+        transparent 450px,
+        #ffffff0f 450px,
+        #ffffff0f 470px,
+        transparent 470px,
+        transparent 510px,
+        #ffffff0f 510px,
+        #ffffff0f 530px,
+        transparent 530px,
+        transparent 570px,
+        #ffffff0f 570px,
+        #ffffff0f 590px,
+        transparent 590px
+      ),
+      var(--secondary-color);
+  }
+
+  .cta-two {
+    background-color: var(--primary-color);
+    // background-size: 100px 80px;
+    background-image: url(../../public/images/Ads3.svg);
+  }
+
+  img {
+    width: 350px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 20px;
+  }
+}
+
+.cta-text {
+  max-width: 280px;
+  .cta-subheader {
+    color: white;
+    // margin: 0;
+    font-weight: 500;
+    line-height: 150%;
+  }
 }
