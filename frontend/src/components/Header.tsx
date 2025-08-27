@@ -4,7 +4,9 @@ export default function Header() {
   return (
     <header className="">
       <nav>
-        <img src="icons/logo.svg" alt="logo" />
+        <Link to="/">
+          <img src="icons/logo.svg" alt="logo" />
+        </Link>
 
         <div className="search-container">
           <img src="icons/search.svg" alt="search-icon" />

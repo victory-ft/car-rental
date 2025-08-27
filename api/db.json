@@ -10,7 +10,7 @@
 			"fuel": "Petrol",
 			"transmission": "Automatic",
 			"capacity": 5,
-			"range": 580,
+			"range": 769,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755990735/cars/toyota_camry_sedan_2021_side.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755990823/cars/toyota_camry_sedan_2021_back.webp",
@@ -33,7 +33,7 @@
 			"fuel": "Petrol",
 			"transmission": "Manual",
 			"capacity": 5,
-			"range": 550,
+			"range": 670,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755991098/cars/honda_civic_hatchback_2019_side.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755991205/cars/honda_civic_hatchback_2019_back.webp",
@@ -56,7 +56,7 @@
 			"fuel": "Electric",
 			"transmission": "Automatic",
 			"capacity": 5,
-			"range": 350,
+			"range": 576,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755991633/cars/tesla_model_3_2022_side.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755991811/cars/tesla_model_3_2022_back.webp",
@@ -79,7 +79,7 @@
 			"fuel": "Petrol",
 			"transmission": "Automatic",
 			"capacity": 7,
-			"range": 500,
+			"range": 667,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755991926/cars/ford_explorer_2020_side.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755991962/cars/ford_explorer_2020_back.webp",
@@ -102,7 +102,7 @@
 			"fuel": "Petrol",
 			"transmission": "Automatic",
 			"capacity": 5,
-			"range": 560,
+			"range": 831,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755992212/cars/bmw_3_series_2021_side.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755992280/cars/bmw_3_series_2021_back.webp",
@@ -125,7 +125,7 @@
 			"fuel": "Diesel",
 			"transmission": "Automatic",
 			"capacity": 8,
-			"range": 650,
+			"range": 910,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755992404/cars/chevorlet_tahoe_2019_side.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755992792/cars/chevorlet_tahoe_2019_front.webp",
@@ -148,7 +148,7 @@
 			"fuel": "Petrol",
 			"transmission": "Manual",
 			"capacity": 5,
-			"range": 480,
+			"range": 591,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755992965/cars/jeep_wrangler_2020_side.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755993011/cars/jeep_wrangler_2020_back.webp",
@@ -171,7 +171,7 @@
 			"fuel": "Petrol",
 			"transmission": "Automatic",
 			"capacity": 5,
-			"range": 570,
+			"range": 835,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755993279/cars/benz_c_class_2021_side.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755993337/cars/benz_c_class_2021_back.webp",
@@ -194,7 +194,7 @@
 			"fuel": "Petrol",
 			"transmission": "Manual",
 			"capacity": 4,
-			"range": 400,
+			"range": 508,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755993466/cars/ford_mustang_2022_side.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755993559/cars/2b678835-3279-4de7-8047-36484d4e2900_ctofzo.webp",
@@ -217,7 +217,7 @@
 			"fuel": "Electric",
 			"transmission": "Automatic",
 			"capacity": 5,
-			"range": 240,
+			"range": 346,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755994062/cars/7b2d1da1-af4f-4176-ac83-aa8d01a618e3_ufm7nt.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755994089/cars/cfdf03fe-3f7f-4e01-88db-ac90a5a43b4f_jsf3ky.webp",
@@ -240,7 +240,7 @@
 			"fuel": "Petrol",
 			"transmission": "Automatic",
 			"capacity": 5,
-			"range": 837,
+			"range": 662,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755994257/cars/574185b0-8e4b-482e-a14c-5955a07f2917_e0zgfk.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755994290/cars/17bcf364-2cb6-4fe4-9a34-7dc14e79f0ca_e3slje.webp",
@@ -263,7 +263,7 @@
 			"fuel": "Petrol",
 			"transmission": "Automatic",
 			"capacity": 5,
-			"range": 805,
+			"range": 761,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755994505/cars/3ad505d7-dbdd-4b75-9668-de728332a7f9_mghpjh.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755994508/cars/39b4ea93-2c81-4394-8c7b-773c96e5351e_pf2m41.webp",
@@ -286,7 +286,7 @@
 			"fuel": "Petrol",
 			"transmission": "Automatic",
 			"capacity": 5,
-			"range": 772,
+			"range": 684,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755994664/cars/2e7dd334-4c92-42c5-91f4-5306cf576edd_j5b9bh.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755994672/cars/127e5b77-53a6-4c84-a5a3-8034cdc7db0f_eh7ru8.webp",
@@ -309,7 +309,7 @@
 			"fuel": "Diesel",
 			"transmission": "Automatic",
 			"capacity": 5,
-			"range": 1126,
+			"range": 958,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755995072/cars/99765c1e-9504-4126-a4f0-34ca53f23569_tpghqy.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755995105/cars/754e54bd-235a-44f0-b650-0e893b1a07b7_p2dxfq.webp",
@@ -332,9 +332,9 @@
 			"fuel": "Petrol",
 			"transmission": "Manual",
 			"capacity": 2,
-			"range": 644,
+			"range": 592,
 			"images": [
-				"https://res.cloudinary.com/victory-dev/image/upload/v1755995227/cars/d6210dcc-8a04-4c5f-840c-162bc31e27bb_hxfhtz.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1755995220/cars/349d9a10-9768-4175-af6a-74017e872f9b_a95qta.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755995227/cars/d6210dcc-8a04-4c5f-840c-162bc31e27bb_hxfhtz.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755995230/cars/b1c318c4-50a6-41a1-bd42-bd36119cda0a_gvpfqb.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755995233/cars/fc13a13b-2a7a-4e09-9dc5-d0354555269d_rk46ta.webp"
@@ -355,7 +355,7 @@
 			"fuel": "Petrol",
 			"transmission": "Automatic",
 			"capacity": 5,
-			"range": 805,
+			"range": 676,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755995389/cars/4558ddf3-dfcd-4a0a-9795-69aababae7ca_pem94j.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755995396/cars/d64f0511-0618-4b35-b80f-13e8014b3a1f_i4p556.webp",
@@ -378,7 +378,7 @@
 			"fuel": "Petrol",
 			"transmission": "Automatic",
 			"capacity": 2,
-			"range": 611,
+			"range": 577,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755995528/cars/9300f59e-9ca2-4398-b68b-6998db8981bc_vq9hl7.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755995535/cars/d44a5bcc-01b2-49a5-986c-d812b0a6d5fb_vzz72x.webp",
@@ -401,7 +401,7 @@
 			"fuel": "Electric",
 			"transmission": "Automatic",
 			"capacity": 7,
-			"range": 531,
+			"range": 528,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755996119/cars/416c7c30-a97f-4cb8-80d0-4a4192e272b3_hdlqiw.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755996136/cars/d1f63731-b979-4e6c-b847-0efc90c0b85b_nsqh0q.webp",
@@ -424,7 +424,7 @@
 			"fuel": "Petrol",
 			"transmission": "Automatic",
 			"capacity": 5,
-			"range": 837,
+			"range": 875,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755996257/cars/d10a8b3d-276d-4516-ad7c-54503fc0e0ca_nqj4sq.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755996273/cars/f5f792ab-5634-4fe4-8a84-099f7ac5969e_ysp1mp.webp",
@@ -447,7 +447,7 @@
 			"fuel": "Petrol",
 			"transmission": "Automatic",
 			"capacity": 5,
-			"range": 869,
+			"range": 688,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755996393/cars/7ad17203-c034-429c-b580-ee498e6582bf_limrms.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1755996397/cars/db42fc17-e3ed-48fe-8358-9bdd5d69f811_r5p1jr.webp",
@@ -470,7 +470,7 @@
 			"fuel": "Petrol",
 			"transmission": "Automatic",
 			"capacity": 5,
-			"range": 832,
+			"range": 658,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756027026/cars/a8477223-cf6b-418d-a890-d58196c0c023_gcxn5n.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756027027/cars/3f618153-c2c3-41e2-9684-5493885a6d53_jfesyz.webp",
@@ -493,7 +493,7 @@
 			"fuel": "Petrol",
 			"transmission": "Automatic",
 			"capacity": 5,
-			"range": 772,
+			"range": 774,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756027131/cars/c99d5c14-f89b-461d-b361-93d5c56f77c3_aqoemj.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756027140/cars/f2009ce5-96fe-4ac0-ac85-81c20cd2d853_r4fpg2.webp",
@@ -516,7 +516,7 @@
 			"fuel": "Petrol",
 			"transmission": "Automatic",
 			"capacity": 5,
-			"range": 805,
+			"range": 753,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756027328/cars/c432f831-d9b4-4187-8da7-8bac01cc74fe_jc32bw.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756027268/cars/ced340e7-292b-49f7-a08c-ae451ab08ea0_obwuxu.webp",
@@ -539,7 +539,7 @@
 			"fuel": "Petrol",
 			"transmission": "Manual",
 			"capacity": 4,
-			"range": 611,
+			"range": 581,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756027649/cars/63392f48-3603-458a-85da-0af9e59c53f0_tcmnzn.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756027653/cars/ec35896e-2d35-4b0e-8376-8249c76bd74d_cei57q.webp",
@@ -562,7 +562,7 @@
 			"fuel": "Petrol",
 			"transmission": "Automatic",
 			"capacity": 5,
-			"range": 772,
+			"range": 815,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756028112/cars/2021-Mercedes-Benz-GLC-SUV-color-Brilliant-Blue-metallic_lacfa2_c_crop_ar_16_9_ouvl0j.png",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756028131/cars/4cca2642-7b84-4134-be1b-ebe26f97383c_dscvpm.webp",
@@ -585,7 +585,7 @@
 			"fuel": "Petrol",
 			"transmission": "Automatic",
 			"capacity": 5,
-			"range": 869,
+			"range": 662,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756028252/cars/057cde6a-d1fa-4d1d-9d6a-16d450ef003f_vxyr1c.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756028269/cars/c00a7e2a-ed39-4c07-be56-df27e73bcb95_vt3hkv.webp",
@@ -608,7 +608,7 @@
 			"fuel": "Electric",
 			"transmission": "Automatic",
 			"capacity": 5,
-			"range": 525,
+			"range": 531,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756028519/cars/863f5431-2876-4f6c-bae7-4edc4dd71b31_jjhjng.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756028545/cars/faecabc2-35d7-4a85-b4b4-7d8e5043a814_i1artj.webp",
@@ -631,7 +631,7 @@
 			"fuel": "Petrol",
 			"transmission": "Automatic",
 			"capacity": 5,
-			"range": 772,
+			"range": 777,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756028742/cars/a706a2b8-9b5c-466c-958d-bf56ca2b4659_iobomg.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756028761/cars/477e73f2-751b-4de1-8cd8-6fc6c280e69d_canmcm.webp",
@@ -654,7 +654,7 @@
 			"fuel": "Petrol",
 			"transmission": "Automatic",
 			"capacity": 5,
-			"range": 805,
+			"range": 660,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756028903/cars/0d5312a9-0c7d-43c0-a7f5-8b1081ecdb8e_f4mk74.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756028938/cars/af5b65ab-125c-4f08-9b12-632ae0e44535_aremry.webp",
@@ -677,7 +677,7 @@
 			"fuel": "Petrol",
 			"transmission": "Automatic",
 			"capacity": 7,
-			"range": 740,
+			"range": 660,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756029044/cars/b00a7b94-5cbf-427d-84e1-a2c5661a3c05_n4icdp.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756029052/cars/307cec03-e8b5-42af-95c7-db6b0dd42c60_fdm8jo.webp",
@@ -700,7 +700,7 @@
 			"fuel": "Petrol",
 			"transmission": "Automatic",
 			"capacity": 5,
-			"range": 805,
+			"range": 683,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756029952/cars/c5799fba-2463-4487-8e30-35866f646792_kflfvn.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756029964/cars/69ebf4cf-0a15-4878-b1b9-aa338b435a42_aoo5eo.webp",
@@ -723,7 +723,7 @@
 			"fuel": "Petrol",
 			"transmission": "Automatic",
 			"capacity": 5,
-			"range": 853,
+			"range": 805,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756030057/cars/c1600f0b-f900-47da-854a-e13d2fc81065_yl7jjo.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756030068/cars/caa17de6-946f-4b7b-90a6-7b2777924ab1_cghd6c.webp",
@@ -747,7 +747,7 @@
 			"fuel": "Petrol",
 			"transmission": "Automatic",
 			"capacity": 5,
-			"range": 740,
+			"range": 1108,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756030216/cars/31b43d6c-3417-4beb-8fd6-c029b174ecc9_hy6eht.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756030222/cars/d321a838-b0cd-4c2a-90ae-4e150df1cb3c_ixd9nz.webpg",
@@ -770,7 +770,7 @@
 			"fuel": "Petrol",
 			"transmission": "Automatic",
 			"capacity": 7,
-			"range": 724,
+			"range": 789,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756030330/cars/97cfacd7-fd64-4695-99e5-79befe55f9d9_epmgvm.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756030337/cars/0280a80e-647d-4c63-8adf-517471819b47_hsg4um.webp",
@@ -793,7 +793,7 @@
 			"fuel": "Petrol",
 			"transmission": "Manual",
 			"capacity": 5,
-			"range": 627,
+			"range": 583,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756030455/cars/ee9d8e59-9973-4039-a6c4-de455159d47e_zdcv8d.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756030464/cars/1a68ad46-f620-4161-b143-2f74e0f6659e_uungwd.webp",
@@ -840,7 +840,7 @@
 			"fuel": "Petrol",
 			"transmission": "Automatic",
 			"capacity": 5,
-			"range": 789,
+			"range": 745,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756030652/cars/1b30c07c-5aa0-4d78-8d61-1e2a5146d4c8_nfedqr.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756030662/cars/c2bd80f0-dd18-48ce-adb0-be8a19cfa9e7_xexswv.webp",
@@ -862,7 +862,7 @@
 			"fuel": "Petrol",
 			"transmission": "Automatic",
 			"capacity": 7,
-			"range": 676,
+			"range": 615,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756030784/cars/8c089b71-2b10-45c8-9bbf-0cc29cf1a872_hzofm0.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756030793/cars/c95f6a60-8920-4596-bdfc-1d175afa57f9_a91yhy.webp",
@@ -885,7 +885,7 @@
 			"fuel": "Petrol",
 			"transmission": "Automatic",
 			"capacity": 5,
-			"range": 805,
+			"range": 667,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756030921/cars/8c4b57f3-2f13-4fb6-81a8-d4749104d4b5_xxhuz3.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756030924/cars/dab90b51-c42f-410c-8749-28f7c247bfe6_qtsdbr.webp",
@@ -908,7 +908,7 @@
 			"fuel": "Petrol",
 			"transmission": "Manual",
 			"capacity": 5,
-			"range": 600,
+			"range": 714,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756031040/cars/5d70f413-d058-40a1-a358-d8f0df7ffa3a_t8khgp.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756031046/cars/488f6ab1-7c63-4939-afe1-ee1b6199e450_ztcxxr.webp",
@@ -931,7 +931,7 @@
 			"fuel": "Petrol",
 			"transmission": "Automatic",
 			"capacity": 8,
-			"range": 680,
+			"range": 710,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756031218/cars/e661903c-693d-495f-aaf1-2d76f70befeb_ifhm63.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756031156/cars/3f30edb9-d330-4464-a378-7173a8e2c58e_felx5p.webp",
@@ -956,7 +956,7 @@
 			"fuel": "Electric",
 			"transmission": "Automatic",
 			"capacity": 5,
-			"range": 640,
+			"range": 515,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756031373/cars/fbc79fa7-73f2-4842-ac2a-8c1dbbe56edc_nyu1r4.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756031402/cars/c54dfcfe-d710-4f86-836b-b3a9b7f151d5_ksig6r.webp",
@@ -978,7 +978,7 @@
 			"fuel": "Petrol",
 			"transmission": "Automatic",
 			"capacity": 7,
-			"range": 720,
+			"range": 654,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756031534/cars/bffae9e5-7e2e-49dc-89c7-8c70ff4f7399_ap7kz4.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756031542/cars/824a4994-548d-42a6-9445-df75beb04e04_jfsqqs.webp",
@@ -1001,7 +1001,7 @@
 			"fuel": "Petrol",
 			"transmission": "Automatic",
 			"capacity": 8,
-			"range": 650,
+			"range": 645,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756031664/cars/9048d09b-63e8-4ebd-85ca-a57e43e3ce6f_vklums.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756031667/cars/be96fa29-4b8a-41cb-be04-b28d566b07e7_xpz50k.webp",
@@ -1024,7 +1024,7 @@
 			"fuel": "Petrol",
 			"transmission": "Automatic",
 			"capacity": 5,
-			"range": 890,
+			"range": 810,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756031785/cars/df2a1eb6-d44a-4bc2-b7c0-f1c4cb44a12d_kfvtwf.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756031789/cars/a0524395-44c0-4d61-95fa-e30af5e9b13e_bewqxi.webp",
@@ -1047,7 +1047,7 @@
 			"fuel": "Petrol",
 			"transmission": "Automatic",
 			"capacity": 5,
-			"range": 742,
+			"range": 625,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756031897/cars/dbcb60e4-2b05-40ac-a80d-778c5fe7f092_uzff8j.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756031900/cars/f49c92ef-1618-408e-8d96-474256828b49_mk6vof.webp",
@@ -1070,7 +1070,7 @@
 			"fuel": "Petrol",
 			"transmission": "Automatic",
 			"capacity": 7,
-			"range": 695,
+			"range": 714,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756031992/cars/9ae2e3d5-8117-4b7c-96f6-f4a4462befa0_rwbul8.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756031996/cars/d00174de-f6fe-4df0-aeca-ee1ab005092a_xyilvo.webp",
@@ -1093,7 +1093,7 @@
 			"fuel": "Petrol",
 			"transmission": "Automatic",
 			"capacity": 5,
-			"range": 612,
+			"range": 653,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756032142/cars/28ce4d44-d23c-4c11-b83c-d839d9379f56_ifb9he.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756032146/cars/7ed25aa6-79e8-45d3-8ca7-42a0b02fec3e_sdcl6n.webp",
@@ -1116,7 +1116,7 @@
 			"fuel": "Petrol",
 			"transmission": "Automatic",
 			"capacity": 2,
-			"range": 420,
+			"range": 522,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756032411/cars/87d032a2-1371-4824-8fbd-7c008e1b7d91_ag8g1i.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756032347/cars/76398be8-79b1-4c6e-bd62-3747e45fb94b_qxxdqc.webp",
@@ -1138,7 +1138,7 @@
 			"fuel": "Electric",
 			"transmission": "Automatic",
 			"capacity": 5,
-			"range": 410,
+			"range": 528,
 			"images": [
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756032503/cars/4b61efe3-fc7b-4e45-9fcf-985fa4ba3aad_yfgsfc.webp",
 				"https://res.cloudinary.com/victory-dev/image/upload/v1756032507/cars/735ba7cd-94ff-43a4-8e79-175afec9a934_dzltjs.webp",
@@ -1149,6 +1149,366 @@
 			"available": true,
 			"location": "Portland",
 			"features": ["All-Wheel Drive", "Tank Turn", "Camp Mode"],
+			"popular": false
+		},
+		{
+			"id": 51,
+			"brand": "Chevrolet",
+			"model": "Corvette",
+			"type": "Convertible",
+			"year": 2023,
+			"pricePerDay": 350,
+			"fuel": "Petrol",
+			"transmission": "Automatic",
+			"capacity": 2,
+			"range": 550,
+			"images": [
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756290063/cars/12d0de45-83b9-4a88-9c9b-2c32a6a9d1ff_bpspbn.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756290087/cars/fe182df6-9af6-4586-b0a8-25c144352f10_gp0nfm.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756290092/cars/027461e1-b5fb-4096-8899-a93558c92616_qjlntb.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756290110/cars/35217c37-1037-498e-b165-6a5f70402caf_poa7py.webp"
+			],
+			"description": "Exotic American supercar with a retractable hardtop for an open-air experience.",
+			"available": true,
+			"location": "Miami",
+			"features": ["Convertible Top", "Leather Seats", "Performance Exhaust"],
+			"popular": false
+		},
+		{
+			"id": 52,
+			"brand": "Ford",
+			"model": "Bronco",
+			"type": "SUV",
+			"year": 2022,
+			"pricePerDay": 90,
+			"fuel": "Petrol",
+			"transmission": "Automatic",
+			"capacity": 5,
+			"range": 610,
+			"images": [
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756290290/cars/d46ee3c0-9778-4abb-9f4f-85c0861dff79_phzueo.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756290307/cars/99be645c-e098-468e-9e86-b1cdfd648f4a_ipu9rz.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756290318/cars/73ca2217-e68c-4f5b-a1d9-e34cb4739958_yl6fjy.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756290326/cars/521bf2ac-4188-47e7-a5d1-c363d83e2496_kwxqqs.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756290328/cars/650c0b38-af5c-4be5-ac77-e7f8ddaff9d7_h1a01n.webp"
+			],
+			"description": "Rugged and highly capable off-road SUV with removable doors and roof.",
+			"available": true,
+			"location": "Denver",
+			"features": ["4x4 Drive", "Removable Roof", "Apple CarPlay"],
+			"popular": false
+		},
+		{
+			"id": 53,
+			"brand": "Audi",
+			"model": "A5",
+			"type": "Convertible",
+			"year": 2022,
+			"pricePerDay": 135,
+			"fuel": "Petrol",
+			"transmission": "Automatic",
+			"capacity": 4,
+			"range": 720,
+			"images": [
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756290425/cars/0e76b512-8ee6-4315-b863-47aa34ca482e_jmys5m.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756290428/cars/03bd9da3-40a1-426e-804e-bcedfa607a16_cnfljk.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756290438/cars/8e0fadae-adc3-41e6-9911-1866b9fe7988_lwecnx.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756290440/cars/a2a15318-282b-4fd7-9f19-20809cfd5ece_xzdes6.webp"
+			],
+			"description": "Elegant and luxurious convertible with a refined interior and smooth performance.",
+			"available": true,
+			"location": "San Diego",
+			"features": ["Convertible Top", "Virtual Cockpit", "Heated Seats"],
+			"popular": false
+		},
+		{
+			"id": 54,
+			"brand": "Kia",
+			"model": "Telluride",
+			"type": "SUV",
+			"year": 2023,
+			"pricePerDay": 95,
+			"fuel": "Petrol",
+			"transmission": "Automatic",
+			"capacity": 8,
+			"range": 750,
+			"images": [
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756290511/cars/587e5ac7-50b7-46fb-8d88-1d01c151e24b_st3psp.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756290517/cars/3d321ae3-0cdc-4767-aa53-02f3e527ed42_tfzqfo.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756290522/cars/e0e73182-ac50-408f-adb3-07c150d936c3_f9xfp9.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756290524/cars/a3f5bc6c-c4a6-47ae-93bd-87b7382de533_iwkbix.webp"
+			],
+			"description": "Award-winning family SUV with a spacious, upscale interior and a comfortable ride.",
+			"available": true,
+			"location": "Atlanta",
+			"features": ["3rd Row Seating", "Leather Seats", "Lane Keeping Assist"],
+			"popular": false
+		},
+		{
+			"id": 55,
+			"brand": "Porsche",
+			"model": "Boxster",
+			"type": "Convertible",
+			"year": 2021,
+			"pricePerDay": 280,
+			"fuel": "Petrol",
+			"transmission": "Manual",
+			"capacity": 2,
+			"range": 590,
+			"images": [
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756290645/cars/bd23be86-5b2b-48ca-bcd7-0899277495b6_cndvpx.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756290653/cars/9b089836-c2bc-4498-82e4-fb3ea8bf7242_oy42vg.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756290659/cars/45343db4-c33c-4dd6-81b7-2b202f5502f8_oufges.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756290661/cars/8a6822ca-6516-43b3-8e1a-92b8fcb410bd_zywjqr.webp"
+			],
+			"description": "Perfectly balanced mid-engine roadster that delivers an exhilarating driving experience.",
+			"available": true,
+			"location": "Los Angeles",
+			"features": ["Convertible Top", "Sport Chrono Package", "Heated Seats"],
+			"popular": false
+		},
+		{
+			"id": 56,
+			"brand": "GMC",
+			"model": "Yukon",
+			"type": "SUV",
+			"year": 2022,
+			"pricePerDay": 150,
+			"fuel": "Diesel",
+			"transmission": "Automatic",
+			"capacity": 8,
+			"range": 980,
+			"images": [
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756290788/cars/f08c3a7c-8073-4df8-bc41-2ab5d5f67815_wcaiq7.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756290793/cars/bc399a0b-8873-4850-8733-30230e1e64ff_lcsd1g.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756290803/cars/2f49605e-42c5-4c6c-af54-8a81ba2ae85f_qklhom.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756290820/cars/651eeb01-f037-439b-8c0e-6f4cbf758052_jmgrcq.webp"
+			],
+			"description": "Premium full-size SUV offering a luxurious cabin and powerful engine options.",
+			"available": true,
+			"location": "Houston",
+			"features": ["3rd Row Seating", "Bose Audio System", "Panoramic Sunroof"],
+			"popular": false
+		},
+		{
+			"id": 57,
+			"brand": "Honda",
+			"model": "CR-V",
+			"type": "SUV",
+			"year": 2023,
+			"pricePerDay": 65,
+			"fuel": "Petrol",
+			"transmission": "Automatic",
+			"capacity": 5,
+			"range": 780,
+			"images": [
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756291041/cars/680c8977-a125-4dd7-ae23-a06e55c79caf_e4via8.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756291047/cars/52de3717-0772-4187-b6c5-087b33e794fd_qbpwda.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756291065/cars/49bd912c-8b30-4c0a-8971-be265a5f99b6_zmsusi.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756291067/cars/7754002d-477d-44a4-b1d0-deaebe1f1fce_yetyjv.webp"
+			],
+			"description": "A highly practical and reliable compact SUV with excellent fuel economy and cargo space.",
+			"available": true,
+			"location": "Chicago",
+			"features": ["Apple CarPlay", "Adaptive Cruise Control", "Sunroof"],
+			"popular": false
+		},
+		{
+			"id": 58,
+			"brand": "Toyota",
+			"model": "RAV4",
+			"type": "SUV",
+			"year": 2022,
+			"pricePerDay": 70,
+			"fuel": "Petrol",
+			"transmission": "Automatic",
+			"capacity": 5,
+			"range": 820,
+			"images": [
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756291201/cars/7e279d0a-145f-4110-b51f-d954d4dba0d7_w3qvqc.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756291223/cars/1775a821-e0b9-488b-a05c-317093f43a6e_t2o9pk.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756291225/cars/a8d82e5c-0395-4b08-a61a-9de86e94c04d_psplne.webp"
+			],
+			"description": "Versatile and popular compact SUV known for its reliability and efficiency.",
+			"available": false,
+			"location": "Boston",
+			"features": ["All-Wheel Drive", "Bluetooth", "Backup Camera"],
+			"popular": false
+		},
+		{
+			"id": 59,
+			"brand": "Land Rover",
+			"model": "Defender",
+			"type": "SUV",
+			"year": 2021,
+			"pricePerDay": 180,
+			"fuel": "Petrol",
+			"transmission": "Automatic",
+			"capacity": 5,
+			"range": 700,
+			"images": [
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756291306/cars/dfb0463e-ab41-4d32-96ac-371030680a76_ljs5lg.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756291317/cars/5b7e486f-1773-4480-b4fa-e350b3bbfb09_k8lsat.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756291319/cars/c26c96cd-c839-4e5e-9558-1230f1de6480_gceu8g.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756291322/cars/207bc36d-71b9-4711-9436-52e813649811_ybfrxc.webp"
+			],
+			"description": "Legendary off-road icon reimagined with modern technology and luxury.",
+			"available": true,
+			"location": "Aspen",
+			"features": ["4x4 Drive", "Air Suspension", "3D Surround Camera"],
+			"popular": false
+		},
+		{
+			"id": 60,
+			"brand": "Ford",
+			"model": "F-150 Lightning",
+			"type": "Truck",
+			"year": 2022,
+			"pricePerDay": 105,
+			"fuel": "Electric",
+			"transmission": "Automatic",
+			"capacity": 5,
+			"range": 950,
+			"images": [
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756291692/cars/9d557083-a24c-43fd-a988-9f7ca1bc1639_ndn3r7.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756291723/cars/ac442454-caf0-4d9d-850e-57ea8795e750_qhqgoz.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756291731/cars/1aed3e1d-d699-4ab5-ad11-3778fef7f9db_n9uotu.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756291733/cars/b237ca68-fc33-4c90-8852-4edf37e68cb3_tlzrpa.webp"
+			],
+			"description": "America's best-selling pickup truck, known for its capability and innovation.",
+			"available": true,
+			"location": "Dallas",
+			"features": ["Tow Package", "Pro Power Onboard", "SYNC 4 Infotainment"],
+			"popular": false
+		},
+		{
+			"id": 61,
+			"brand": "Chrysler",
+			"model": "Pacifica",
+			"type": "Minivan",
+			"year": 2023,
+			"pricePerDay": 80,
+			"fuel": "Petrol",
+			"transmission": "Automatic",
+			"capacity": 7,
+			"range": 850,
+			"images": [
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756291824/cars/8dfdf767-6d56-440a-96ad-31d15f5e4aaa_skyzcv.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756291827/cars/c6086d9e-7ac0-4ffa-8757-249c0f75e734_xybhni.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756291857/cars/9302064a-cd1c-43a6-9cb6-5248ec40d580_qpkseo.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756291859/cars/5df00d81-d1de-47ea-9182-84c70d7a0eda_htt74g.webp"
+			],
+			"description": "A stylish and comfortable minivan perfect for family trips, with flexible seating.",
+			"available": true,
+			"location": "Orlando",
+			"features": [
+				"Stow 'n Go Seating",
+				"Uconnect Theater",
+				"Adaptive Cruise Control"
+			],
+			"popular": false
+		},
+		{
+			"id": 62,
+			"brand": "Lucid",
+			"model": "Air",
+			"type": "Sedan",
+			"year": 2023,
+			"pricePerDay": 220,
+			"fuel": "Electric",
+			"transmission": "Automatic",
+			"capacity": 5,
+			"range": 830,
+			"images": [
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756292007/cars/48e65571-0442-422b-8c3a-c002040749b5_eh0jsk.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756291955/cars/805a464c-6909-43bc-a70d-daaea80966b1_qvglws.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756291958/cars/43cda529-9617-49f8-b786-a5642b02d225_oprfcl.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756291961/cars/dcdc9eb9-c06d-46e3-9b97-b2128d157f94_icvmtb.webp"
+			],
+			"description": "A groundbreaking luxury electric sedan with an expansive interior and record-breaking range.",
+			"available": true,
+			"location": "San Francisco",
+			"features": [
+				"Glass Canopy Roof",
+				"DreamDrive Pro",
+				"Surreal Sound System"
+			],
+			"popular": false
+		},
+		{
+			"id": 63,
+			"brand": "Toyota",
+			"model": "Sienna",
+			"type": "Minivan",
+			"year": 2022,
+			"pricePerDay": 85,
+			"fuel": "Hybrid",
+			"transmission": "Automatic",
+			"capacity": 8,
+			"range": 980,
+			"images": [
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756292082/cars/1403cdd7-0d70-4ba6-a48d-a764d8e895fd_xuwcvz.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756292093/cars/f0a545a9-4b1b-4118-9d7e-bb9aee95f06c_izqhu3.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756292090/cars/105eea17-90b1-4b78-be78-544cf0be913f_tsqltv.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756292096/cars/88c6e3d3-eefd-4457-be76-022cbda3c2a4_atxxgt.webp"
+			],
+			"description": "A modern and fuel-efficient hybrid minivan with available all-wheel drive.",
+			"available": false,
+			"location": "Minneapolis",
+			"features": [
+				"Hybrid Powertrain",
+				"Hands-Free Sliding Doors",
+				"All-Wheel Drive"
+			],
+			"popular": false
+		},
+		{
+			"id": 64,
+			"brand": "Honda",
+			"model": "Odyssey",
+			"type": "Minivan",
+			"year": 2021,
+			"pricePerDay": 75,
+			"fuel": "Petrol",
+			"transmission": "Automatic",
+			"capacity": 8,
+			"range": 800,
+			"images": [
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756292213/cars/4fa23d9f-9bfa-47e1-bc7b-faf88f3f17ce_xehdz4.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756292218/cars/45ced983-c7b0-48ca-baf7-33e4ef692776_vsnul1.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756292221/cars/9eb2bc30-539b-4210-a86a-101e694e83a3_gyf0tk.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756292227/cars/beba5371-374d-42f1-aa5b-ea5b38e2b883_ujdbqs.webp"
+			],
+			"description": "A family-favorite minivan with versatile seating and innovative features like an in-cabin camera.",
+			"available": true,
+			"location": "San Jose",
+			"features": ["Magic Slide 2nd-Row Seats", "CabinWatch", "Bluetooth"],
+			"popular": false
+		},
+		{
+			"id": 65,
+			"brand": "Polestar",
+			"model": "2",
+			"type": "Sedan",
+			"year": 2023,
+			"pricePerDay": 110,
+			"fuel": "Electric",
+			"transmission": "Automatic",
+			"capacity": 5,
+			"range": 435,
+			"images": [
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756292356/cars/884b28bd-d67f-4c90-a7e5-a066090db8f7_fhwlct.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756292318/cars/7f0e4c8e-5c00-4eeb-815d-b6c24a5c3684_zxmmkt.webp",
+				"https://res.cloudinary.com/victory-dev/image/upload/v1756292321/cars/3ab87256-a70a-4ab9-9dd5-75aea5bfadfe_nc1soa.webp"
+			],
+			"description": "A premium electric fastback with minimalist Scandinavian design and a Google-powered infotainment system.",
+			"available": true,
+			"location": "Seattle",
+			"features": [
+				"Android Automotive OS",
+				"Panoramic Roof",
+				"Harman Kardon Audio"
+			],
 			"popular": false
 		}
 	]

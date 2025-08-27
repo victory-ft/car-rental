@@ -1,28 +1,10 @@
 import { useEffect, useMemo, useState } from 'react'
 // eslint-disable-next-line sort-imports
-import { createFileRoute, Link } from '@tanstack/react-router'
+import { createFileRoute, Link, useNavigate } from '@tanstack/react-router'
 import api from '../../api/axios'
+import type { Car } from '@/types/types'
 import { CarList } from '@/components/CarList'
 import { LocationTimeSelector } from '@/components/LocationTimeSelector'
-
-interface Car {
-  id: number
-  brand: string
-  model: string
-  type: string
-  year: number
-  pricePerDay: number
-  fuel: string
-  transmission: string
-  capacity: number
-  range: number
-  images: Array<string>
-  description: string
-  available: boolean
-  location: string
-  features: Array<string>
-  popular: boolean
-}
 
 export const Route = createFileRoute('/')({
   component: App,
@@ -37,6 +19,12 @@ function App() {
   function getRandomCars(cars: Array<Car>, count: number): Array<Car> {
     const shuffled = [...cars].sort(() => 0.5 - Math.random())
     return shuffled.slice(0, count)
+  }
+
+  const navigate = useNavigate()
+
+  const handleButtonClick = () => {
+    navigate({ to: '/categories' })
   }
 
   useEffect(() => {
@@ -72,7 +60,9 @@ function App() {
                 Ease of doing a car rental safely and reliably. Of course at a
                 low price.
               </p>
-              <button className="primary-btn">Rent Car</button>
+              <button className="primary-btn" onClick={handleButtonClick}>
+                Find a Car
+              </button>
             </div>
             <img src="images/porsche.png" alt="car" />
           </div>
@@ -85,7 +75,9 @@ function App() {
                 Providing cheap car rental services and safe and comfortable
                 facilities.
               </p>
-              <button className="secondary-btn">Rent Car</button>
+              <button className="secondary-btn" onClick={handleButtonClick}>
+                Find a Car
+              </button>
               <img src="images/car2.png" alt="car" />
             </div>
           </div>
@@ -96,7 +88,7 @@ function App() {
       <section className="car-list-section">
         <div className="car-list-header">
           <h2>Popular Cars</h2>
-          <Link to="/">View More</Link>
+          <Link to="/categories">View More</Link>
         </div>
         {loading && <p>Loading cars...</p>}
         {error && <p>Error: {error}</p>}

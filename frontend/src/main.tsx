@@ -8,6 +8,7 @@ import { routeTree } from './routeTree.gen'
 import './styles/index.scss'
 import './styles/header.scss'
 import './styles/components.scss'
+import './styles/categories.scss'
 import reportWebVitals from './reportWebVitals.ts'
 
 // Create a new router instance
