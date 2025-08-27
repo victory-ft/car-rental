@@ -13,7 +13,12 @@ export const CarList = ({ cars }: CarListProps) => {
   return (
     <div className="car-list">
       {cars.map((car) => (
-        <Link to="/" key={car.id} className="car-card">
+        <Link
+          to="/car/$id"
+          params={{ id: car.id.toString() }}
+          key={car.id}
+          className="car-card"
+        >
           {car.popular && <span className="popular-badge">Popular</span>}
           <div className="car-info">
             <h3 className="car-brand">{car.brand}</h3>

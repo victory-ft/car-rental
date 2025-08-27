@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from 'react'
 // eslint-disable-next-line sort-imports
 import { createFileRoute, Link, useNavigate } from '@tanstack/react-router'
-import api from '../../api/axios'
+import api from '@api/axios'
 import type { Car } from '@/types/types'
 import { CarList } from '@/components/CarList'
 import { LocationTimeSelector } from '@/components/LocationTimeSelector'

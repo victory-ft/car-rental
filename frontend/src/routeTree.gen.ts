@@ -9,63 +9,58 @@
 // Additionally, you should also exclude this file from your linter and/or formatter to prevent it from being checked or modified.
 
 import { Route as rootRouteImport } from './routes/__root'
-import { Route as CategoriesRouteRouteImport } from './routes/categories/route'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as CategoriesIndexRouteImport } from './routes/categories/index'
+import { Route as CarIdRouteImport } from './routes/car/$id'
 
-const CategoriesRouteRoute = CategoriesRouteRouteImport.update({
-  id: '/categories',
-  path: '/categories',
-  getParentRoute: () => rootRouteImport,
-} as any)
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
   getParentRoute: () => rootRouteImport,
 } as any)
 const CategoriesIndexRoute = CategoriesIndexRouteImport.update({
-  id: '/',
-  path: '/',
-  getParentRoute: () => CategoriesRouteRoute,
+  id: '/categories/',
+  path: '/categories/',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const CarIdRoute = CarIdRouteImport.update({
+  id: '/car/$id',
+  path: '/car/$id',
+  getParentRoute: () => rootRouteImport,
 } as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
-  '/categories': typeof CategoriesRouteRouteWithChildren
-  '/categories/': typeof CategoriesIndexRoute
+  '/car/$id': typeof CarIdRoute
+  '/categories': typeof CategoriesIndexRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/car/$id': typeof CarIdRoute
   '/categories': typeof CategoriesIndexRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
-  '/categories': typeof CategoriesRouteRouteWithChildren
+  '/car/$id': typeof CarIdRoute
   '/categories/': typeof CategoriesIndexRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/categories' | '/categories/'
+  fullPaths: '/' | '/car/$id' | '/categories'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/categories'
-  id: '__root__' | '/' | '/categories' | '/categories/'
+  to: '/' | '/car/$id' | '/categories'
+  id: '__root__' | '/' | '/car/$id' | '/categories/'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
-  CategoriesRouteRoute: typeof CategoriesRouteRouteWithChildren
+  CarIdRoute: typeof CarIdRoute
+  CategoriesIndexRoute: typeof CategoriesIndexRoute
 }
 
 declare module '@tanstack/react-router' {
   interface FileRoutesByPath {
-    '/categories': {
-      id: '/categories'
-      path: '/categories'
-      fullPath: '/categories'
-      preLoaderRoute: typeof CategoriesRouteRouteImport
-      parentRoute: typeof rootRouteImport
-    }
     '/': {
       id: '/'
       path: '/'
@@ -75,29 +70,25 @@ declare module '@tanstack/react-router' {
     }
     '/categories/': {
       id: '/categories/'
-      path: '/'
-      fullPath: '/categories/'
+      path: '/categories'
+      fullPath: '/categories'
       preLoaderRoute: typeof CategoriesIndexRouteImport
-      parentRoute: typeof CategoriesRouteRoute
+      parentRoute: typeof rootRouteImport
+    }
+    '/car/$id': {
+      id: '/car/$id'
+      path: '/car/$id'
+      fullPath: '/car/$id'
+      preLoaderRoute: typeof CarIdRouteImport
+      parentRoute: typeof rootRouteImport
     }
   }
 }
 
-interface CategoriesRouteRouteChildren {
-  CategoriesIndexRoute: typeof CategoriesIndexRoute
-}
-
-const CategoriesRouteRouteChildren: CategoriesRouteRouteChildren = {
-  CategoriesIndexRoute: CategoriesIndexRoute,
-}
-
-const CategoriesRouteRouteWithChildren = CategoriesRouteRoute._addFileChildren(
-  CategoriesRouteRouteChildren,
-)
-
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
-  CategoriesRouteRoute: CategoriesRouteRouteWithChildren,
+  CarIdRoute: CarIdRoute,
+  CategoriesIndexRoute: CategoriesIndexRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)
